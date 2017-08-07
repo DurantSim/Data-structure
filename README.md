@@ -11,3 +11,5 @@ A collection of data structure algorithms written in Python
   * [Heap Sort](https://github.com/DurantSim/Data-structure/blob/master/sorting%20algorithm/Heap%20Sort.py)
   * [Bucket Sort](https://github.com/DurantSim/Data-structure/blob/master/sorting%20algorithm/Bucket%20Sort.py)
   * [Shell Sort](https://github.com/DurantSim/Data-structure/blob/master/sorting%20algorithm/Shell%20sort.py)
+  * [Comb Sort](https://github.com/DurantSim/Data-structure/blob/master/sorting%20algorithm/Comb%20Sort.py)
+  * [Cocktail Sort](https://github.com/DurantSim/Data-structure/blob/master/sorting%20algorithm/Cocktail%20Sort.py)
