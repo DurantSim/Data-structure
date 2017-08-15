@@ -13,3 +13,6 @@ A collection of data structure algorithms written in Python
   * [Shell Sort](https://github.com/DurantSim/Data-structure/blob/master/sorting%20algorithm/Shell%20sort.py)
   * [Comb Sort](https://github.com/DurantSim/Data-structure/blob/master/sorting%20algorithm/Comb%20Sort.py)
   * [Cocktail Sort](https://github.com/DurantSim/Data-structure/blob/master/sorting%20algorithm/Cocktail%20Sort.py)
+
+* Tree Traversal
+  * [Prefix, Infix, Postfix Order](https://github.com/DurantSim/Data-structure/blob/master/Traversal/Tree%20Traversal.py)
